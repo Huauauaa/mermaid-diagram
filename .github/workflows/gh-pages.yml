@@ -43,3 +43,4 @@ jobs:
           publish_dir: ./dist
           enable_jekyll: true
           keep_files: true
+          destination_dir: subdir
